@@ -1,2 +1,3 @@
 # Introduction-to-LLM
-Jupyter notebook to introduce how LLMs work - for physics students
+Jupyter notebooks to introduce how LLMs work - for students of the course "Teaching and Learning Physics" 
+taught by Dr. Marta Carli in 2024 at the University of Padova.
